@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	padding: 0;
+	margin: 0;
+	background:yellow;
+}
+h1{
+	color: red;
+	text-align: center;
+
+
+}
+table{
+	background-color: green;
+	color: white;
+}
+.serial{
+	background-color: red;
+	color: white;
+}
+.name{
+	background-color: blue;
+	color: white;
+}
